@@ -2,6 +2,9 @@
 /shelf/
 /workspace.xml
 venv/
+.venv
+.env
+.vscode/
 
 # pycharm
 .idea/
